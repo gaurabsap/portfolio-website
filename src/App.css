@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  scroll-behavior: smooth;
+}
+
+/* html {
+  font-size: 62.5%;
+} */
+
+::-webkit-scrollbar {
+  display: none;
+}
